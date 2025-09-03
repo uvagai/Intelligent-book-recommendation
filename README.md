@@ -1,13 +1,13 @@
 # 📚 Audible Insights: Intelligent Book Recommendations
 
-A personalized book recommendation system built using machine learning, NLP, and clustering techniques. The system processes Audible catalog datasets, builds multiple recommendation models, and deploys a user-friendly application using Streamlit and AWS.
+A personalized book recommendation system built using machine learning, NLP, and clustering techniques. The system processes Audible catalog datasets, builds multiple recommendation models, and deploys a user-friendly application using Streamlit .
 
 ---
 
 ## 🧠 Project Overview
 
 **Objective**  
-To design and develop an intelligent recommendation system that suggests books to users based on their preferences. The solution processes and cleans data from two Audible datasets, extracts features using NLP, clusters books using similarity metrics, and applies content-based and hybrid recommendation techniques. The final system is deployed using Streamlit and hosted on AWS.
+To design and develop an intelligent recommendation system that suggests books to users based on their preferences. The solution processes and cleans data from two Audible datasets, extracts features using NLP, clusters books using similarity metrics, and applies content-based and hybrid recommendation techniques. The final system is deployed using Streamlit .
 
 ---
 
